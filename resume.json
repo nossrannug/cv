@@ -2,7 +2,7 @@
   "basics": {
     "name": "Gunnar Sv Sigurbjörnsson",
     "label": "Software Engineer at Lucinity",
-    "picture": "http://gunnarsv.com/img/gunnar.jpg",
+    "image": "gunnar.png",
     "email": "gunnar.sigurbjornsson@gmail.com",
     "phone": "+354 844 2798",
     "website": "",
@@ -140,14 +140,8 @@
         "Agile",
         "Scrum",
         "TDD",
-        "Azure DevOps"
-      ]
-    },{
-      "name": "Stuff I mess with in my free time",
-      "level": "",
-      "keywords": [
         "Rust",
-        "Go"
+        "Azure DevOps"
       ]
     }
   ],

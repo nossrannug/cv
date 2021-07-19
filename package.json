@@ -5,7 +5,7 @@
   "author": "Gunnar Sv Sigurbjörnsson <gunnar.sigurbjornsson@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
-    "html": "resume export index.html --theme kendall -r cv.json"
+    "build-html": "resume export index.html --theme kendall"
   },
   "devDependencies": {
     "jsonresume-theme-kendall": "^0.2.0",
