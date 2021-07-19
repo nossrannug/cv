@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Gunnar Sv Sigurbjörnsson",
+    "label": "Software Engineer at Lucinity",
+    "picture": "http://gunnarsv.com/img/gunnar.jpg",
+    "email": "gunnar.sigurbjornsson@gmail.com",
+    "phone": "+354 844 2798",
+    "website": "",
+    "summary": "Experienced software engineer from Iceland. Main interest include software architecture, software performance, and programming. Great passion for improving software quality/performance and developer experience. Also enjoy trying out cutting-edge technologies.",
+    "location": {
+      "countryCode": "IS",
+      "address": "Iceland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "gunnarsv",
+        "url": "https://www.linkedin.com/in/gunnarsv/"
+      },
+      {
+        "network": "GitHub",
+        "username": "nossrannug",
+        "url": "https://github.com/nossrannug"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Lucinity",
+      "name": "Lucinity",
+      "endDate": "",
+      "highlights": [],
+      "position": "Senior Software Engineer",
+      "startDate": "2019-07-31",
+      "summary": "Lead backend developer. Design and implement APIs and database layers.<br>- Python REST APIs<br>- Apollo GraphQL<br>- PostgreSQL",
+      "website": "https://www.linkedin.com/company/18885766",
+      "url": "https://lucinity.com"
+    },
+    {
+      "company": "Íslandsbanki",
+      "name": "Íslandsbanki",
+      "endDate": "2019-06-30",
+      "highlights": [],
+      "position": "Solution Architect",
+      "startDate": "2016-01-31",
+      "summary": "Design and implement APIs for the online bank as well as the mobile app.",
+      "website": "https://www.linkedin.com/company/9203",
+      "url": "https://islandsbanki.is"
+    },
+    {
+      "company": "Íslandsbanki",
+      "name": "Íslandsbanki",
+      "endDate": "2015-12-31",
+      "highlights": [],
+      "position": "Software Developer",
+      "startDate": "2015-10-31",
+      "summary": "",
+      "website": "https://www.linkedin.com/company/9203",
+      "url": "https://islandsbanki.is"
+    },
+    {
+      "company": "Advania",
+      "name": "Advania",
+      "endDate": "2015-09-30",
+      "highlights": [],
+      "position": "Software Specialist / Sharepoint Developer",
+      "startDate": "2011-05-31",
+      "summary": "Developed custom solutions in C# as well as custom SharePoint apps.",
+      "website": "https://www.linkedin.com/company/2459058",
+      "url": "https://advania.is"
+    },
+    {
+      "company": "Tækniskólinn",
+      "name": "Tækniskólinn",
+      "endDate": "2015-06-30",
+      "highlights": [],
+      "position": "Teacher",
+      "startDate": "2013-01-31",
+      "summary": "<strong>Programming (C++)</strong> and <strong>Data structures (C++)</strong>",
+      "website": "https://www.linkedin.com/company/959135",
+      "url": "https://tskoli.is"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2018-08-20",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Reykjavik University",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2010-12-31",
+      "endDate": "2012-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Live Network Streaming with Utilities and Cost",
+      "publisher": "LADIS 2012",
+      "releaseDate": "2012-07-31",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Live Streaming with Utilities, Quality and Cost",
+      "publisher": "PODC 2012",
+      "releaseDate": "2012-07-31",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend developer",
+      "level": "",
+      "keywords": [
+        "TypeScript",
+        "Python",
+        "C#",
+        "Java",
+        "REST",
+        "gRPC",
+        "GraphQL",
+        "PostgreSQL"
+      ]
+    },{
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "Software architecture and design",
+        "Agile",
+        "Scrum",
+        "TDD",
+        "Azure DevOps"
+      ]
+    },{
+      "name": "Stuff I mess with in my free time",
+      "level": "",
+      "keywords": [
+        "Rust",
+        "Go"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },{
+      "language": "Icelandic",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
